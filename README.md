@@ -1,5 +1,7 @@
 # kegg-animate-pathway
 
+[![Join the chat at https://gitter.im/ajmazurie/kegg-animate-pathway](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajmazurie/kegg-animate-pathway?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **kegg-animate-pathway** is a [Python](http:www.python.org)-based command-line utility which interfaces with the [KEGG](http://www.genome.jp/kegg/>) API to produce animated figures of metabolic pathways to reveal activities of its genes and/or compounds.
 
 Here is an example:
